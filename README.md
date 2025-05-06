@@ -48,7 +48,7 @@ Search bar where users can filter their stories using keywords (e.g., location o
 ###  Day Filter
 Allows users to filter their stories by selecting specific date ranges, enabling easy access to memories by timeline.
 
-![Day Filter](./frontend/travel-story-app/Screenshots/DayfilterSS.png)
+![Day Filter](./frontend/travel-story-app/Screenshots/DayfılterSS.png)
 
 ###  Summer Memory Detail
 An example of a memory card with a title, photo, date, and location—showcasing the visual aspect of the platform.
